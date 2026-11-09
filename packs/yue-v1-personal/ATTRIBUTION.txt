@@ -1,0 +1,22 @@
+ATTRIBUTION
+===========
+
+This dictionary pack is a derived work built from the sources below.
+Effective licence: Non-Commercial Open Data License
+  https://words.hk/base/hoifong/
+
+*** NON-COMMERCIAL USE ONLY ***
+
+At least one source restricts commercial use. This pack may be used
+personally but not commercially without separate agreement from the
+rightsholder named below. Rebuild with --no-glosses for a pack
+without that restriction.
+
+Sources
+-------
+* llm-generated [PD]
+  Model-generated entries for words no licensed dictionary covers, each verified by two model judges (dictpipe grow). No dictionary source; labelled 'model-generated' in the reader.
+  Note: Model output carries no upstream licence. Never shown words.hk text.
+* wordshk [NC-ODL]
+  Cantonese dictionary data from words.hk (Hong Kong Lexicography Limited), used by permission under the Non-Commercial Open Data License <https://words.hk/base/hoifong/>.
+  Note: Applies only when the pack was built WITH glosses. Built with --no-glosses, no words.hk prose is included and only their separately published public-domain vocabulary and readings remain.

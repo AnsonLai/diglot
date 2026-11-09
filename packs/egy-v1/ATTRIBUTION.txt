@@ -1,0 +1,26 @@
+ATTRIBUTION
+===========
+
+This dictionary pack is a derived work built from the sources below.
+Effective licence: Creative Commons Attribution-ShareAlike 4.0 International
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+This pack must be redistributed under the same licence, with this
+attribution file intact.
+
+Sources
+-------
+* egyptian-core-lexicon [PD]
+  Standard Middle Egyptian core vocabulary and Gardiner hieroglyphic writings (Gardiner, Faulkner, Erman-Grapow Wörterbuch, public domain).
+* gardiner-faulkner [PD]
+  Middle Egyptian classical lexicography based on Gardiner Egyptian Grammar and Faulkner Concise Dictionary of Middle Egyptian (public domain).
+* kaikki-egy [CC-BY-SA-4.0]
+  Ancient Egyptian headwords and English glosses extracted from Wiktionary via Wiktextract / kaikki.org. Wiktionary content is CC BY-SA. Cite: Tatu Ylonen, "Wiktextract: Wiktionary as Machine-Readable Structured Data", LREC 2022, pp. 1317-1325.
+* llm-generated [PD]
+  Model-generated entries for words no licensed dictionary covers, each verified by two model judges (dictpipe grow). No dictionary source; labelled 'model-generated' in the reader.
+  Note: Model output carries no upstream licence. Never shown words.hk text.
+* tla [CC-BY-SA-4.0]
+  Hieroglyphic writings and corpus attestation counts from the Thesaurus Linguae Aegyptiae <https://thesaurus-linguae-aegyptiae.de>, CC BY-SA 4.0. Berlin-Brandenburgische Akademie der Wissenschaften and Saechsische Akademie der Wissenschaften zu Leipzig, Strukturen und Transformationen des Wortschatzes der aegyptischen Sprache. Corpus: tla-Earlier_Egyptian_original-v18.
+  Note: Unicode hieroglyphs and Leiden transliteration come from here rather than from Wiktionary, whose <hiero> markup is Manuel de Codage (nfr-f:r) and would need a Gardiner-to-Unicode converter.
+* wiktionary-mdc [CC-BY-SA-4.0]
+  Egyptian hieroglyphic spellings converted from Wiktionary Manuel de Codage (<hiero>) markup to Unicode Gardiner signs (CC BY-SA).

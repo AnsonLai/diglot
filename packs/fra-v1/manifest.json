@@ -1,0 +1,107 @@
+{
+  "built": "2026-11-09T18:23:23Z",
+  "core_criteria": {
+    "confidence_min": 1.0,
+    "en_zipf_min": 3.5,
+    "pos": [
+      "adj",
+      "adv",
+      "noun"
+    ]
+  },
+  "format": 1,
+  "inputs": {
+    "files": {
+      "code/emit.py": "sha256:ffbd05d4cc36211568f56aaef21dd82fc7ec17744109a6edf5b86f4ee096f239",
+      "code/grow.py": "sha256:5dcfed0e1a15311a9f6b9ebab8aceb44694a24115a56c9bc99cd2bd41b589318",
+      "code/hazards.py": "sha256:3cf4bdd83290d41274826cea478c984e3b4d3bcec70cbdc9a093f525a57e3b2c",
+      "code/langs.py": "sha256:6566fc7b92da5e071a3cedbf51f3b8471f09e76384204a3d1d6ed5bda853ef3f",
+      "code/registerlane.py": "sha256:62fe853effce15b36e271aa6cc9ec80df619837f1f6cb3b5fea1c0aeefcaf20c",
+      "code/review.py": "sha256:1229203c0a24ae3bf4ac73ca429141bc308cd8bfd15d73cc90d16460f1f3b393",
+      "code/textnorm.py": "sha256:6640a86990778c7ea21b6c52661d40218b468eb25f653afc4e2a4ee59b41f799",
+      "code/vote.py": "sha256:a72b7a3a5d852091f8a1e7ff25bdbd388a67126b028354f7638b015862826239",
+      "expansion/verb-guards-fra-v1.json": null,
+      "expansion/word-promotions-fra-v1.json": "sha256:8e5e556e887d027767f7974ef878202dfa272fbe6fdda9a9813d0b8400d05124",
+      "interim/fra.dbnary.tsv": "sha256:f5b97adfcb95fe47b797d836a7299afa2b7ac72a4be85b07b6ac3b859d5e881b",
+      "interim/fra.forms.tsv": "sha256:90a82b5a355456c4ff9fc8d16ae20d4380863ee00d25ce95775d25a2898a27ba",
+      "interim/fra.kaikki.tsv": "sha256:e6bb553050edf9416c1f342e1d7e96d028212e515dc516983863440255aa9bc3",
+      "review/agents.fra.jsonl": "sha256:fff3a5d44b2b00cf36c5bd7ae1b0ace771954de1cd808047b78bd9b782733c63",
+      "review/decisions.fra.tsv": null,
+      "review/decisions.llm.fra.tsv": "sha256:7433de85992bd0b6dfb72475217b1950f35ddd042cd68c821d6c686f016eb4f1",
+      "review/decisions.llmreview.fra.tsv": "sha256:81689300be88a190519d834dc9d2b537c83d7c35fdb3efbbc903f6c0e2406178",
+      "review/decisions.llmselected.fra.tsv": "sha256:1653ca9c8ac07dcf7111169eeb5a7fdac35f93f320d00aeff975df8a63bcb5b3",
+      "review/generated-agents-forms.fra.tsv": "sha256:0c23f2cecb64958d70cdb67f8fc9ddbfa8b7c711dab06da50279dfde7b9b25e1",
+      "review/generated-agents.fra.tsv": "sha256:d50c15ba0074f85bd9eda40286e419986963dd40d5681ad32a67edc48f5c67af",
+      "review/generated-forms.fra.tsv": null,
+      "review/generated.fra.tsv": null,
+      "review/grow.fra.jsonl": null,
+      "review/judge.fra.jsonl": "sha256:366767bf908d684fca6622053eb6ac7a44f392dc284bab2a42fc59605c4a052c",
+      "review/phrases.fra.json": null,
+      "review/register.fra.tsv": null,
+      "review/tiebreak.fra.jsonl": null
+    },
+    "fingerprint": "sha256:e906c905cf7dade009c39caa26bc265e3bef8a8c7867bfc334959a35b435ed75",
+    "rubric": "sha256:3a08167fe5bb656e7e9c27360baf7ab0237ce4a967a7f823b0f110adae08c88b"
+  },
+  "language": "fra",
+  "licence": {
+    "commercial_use": true,
+    "key": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "share_alike": true,
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "max_candidates_per_entry": 4,
+  "promotions": {
+    "entries": 202,
+    "file": "word-promotions.json",
+    "fingerprint": "7fbaa328b128e505d2f987b336f920497171bd540f5cd0e944c269eb17b8f37b",
+    "format": 1,
+    "sha256": "8e5e556e887d027767f7974ef878202dfa272fbe6fdda9a9813d0b8400d05124",
+    "version": "a5-v1"
+  },
+  "sharding": {
+    "algorithm": "fnv1a-32",
+    "count": 64
+  },
+  "sources": [
+    {
+      "file": "en_dbnary_ontolex.ttl.bz2",
+      "licence": "CC-BY-SA-4.0",
+      "name": "dbnary",
+      "sha256": "eec2a5c162ddf4cc0a410e0ec24f5417cc31c387de8b22a93bfa45afdb94e3b3"
+    },
+    {
+      "file": "kaikki-raw.jsonl.gz",
+      "licence": "CC-BY-SA-4.0",
+      "name": "kaikki",
+      "sha256": "0071ccc21e6b35bcb0d57a742eac5868e5b21b7bf7ec99b1755982ca28dbed94"
+    },
+    {
+      "file": "kaikki-raw.jsonl.gz",
+      "licence": "CC-BY-SA-4.0",
+      "name": "kaikki-fr",
+      "sha256": "0071ccc21e6b35bcb0d57a742eac5868e5b21b7bf7ec99b1755982ca28dbed94"
+    },
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "llm-generated",
+      "sha256": null
+    }
+  ],
+  "tiers": {
+    "core": {
+      "bytes_gzipped": 449245,
+      "lemmas": 7696,
+      "shards": 64
+    },
+    "extended": {
+      "bytes_gzipped": 1448543,
+      "lemmas": 35969,
+      "shards": 64
+    }
+  },
+  "total_bytes_gzipped": 1897788,
+  "version": "v1"
+}

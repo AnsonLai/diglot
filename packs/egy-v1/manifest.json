@@ -1,0 +1,116 @@
+{
+  "built": "2026-11-09T19:07:35Z",
+  "core_criteria": {
+    "confidence_min": 1.0,
+    "en_zipf_min": 3.5,
+    "pos": [
+      "adj",
+      "adv",
+      "noun",
+      "verb"
+    ]
+  },
+  "format": 1,
+  "inputs": {
+    "files": {
+      "code/emit.py": "sha256:ffbd05d4cc36211568f56aaef21dd82fc7ec17744109a6edf5b86f4ee096f239",
+      "code/grow.py": "sha256:5dcfed0e1a15311a9f6b9ebab8aceb44694a24115a56c9bc99cd2bd41b589318",
+      "code/hazards.py": "sha256:3cf4bdd83290d41274826cea478c984e3b4d3bcec70cbdc9a093f525a57e3b2c",
+      "code/langs.py": "sha256:6566fc7b92da5e071a3cedbf51f3b8471f09e76384204a3d1d6ed5bda853ef3f",
+      "code/registerlane.py": "sha256:62fe853effce15b36e271aa6cc9ec80df619837f1f6cb3b5fea1c0aeefcaf20c",
+      "code/review.py": "sha256:1229203c0a24ae3bf4ac73ca429141bc308cd8bfd15d73cc90d16460f1f3b393",
+      "code/textnorm.py": "sha256:6640a86990778c7ea21b6c52661d40218b468eb25f653afc4e2a4ee59b41f799",
+      "code/vote.py": "sha256:a72b7a3a5d852091f8a1e7ff25bdbd388a67126b028354f7638b015862826239",
+      "expansion/verb-guards-egy-v1.json": null,
+      "expansion/word-promotions-egy-v1.json": null,
+      "interim/egy.egyptian.tsv": "sha256:da44fcfe0519520a3a467b48cc5c22014cdc32480e5bd7385b3cd0384a3163f9",
+      "interim/egy.forms.tsv": "sha256:68e72d07190ce813157df7070711ec308cc563651ea303d630d37689f6e55441",
+      "review/agents.egy.jsonl": "sha256:ffc78c7eadb835127865fbe356f308989d1ca7835cc974d3649de676245fbc9f",
+      "review/decisions.egy.tsv": null,
+      "review/decisions.llm.egy.tsv": null,
+      "review/decisions.llmreview.egy.tsv": "sha256:d23dd14034bc7298ef73bfb55a3506bff80c37a78ed9d59aef3c653abf5e449b",
+      "review/decisions.llmselected.egy.tsv": "sha256:1653ca9c8ac07dcf7111169eeb5a7fdac35f93f320d00aeff975df8a63bcb5b3",
+      "review/generated-agents-forms.egy.tsv": null,
+      "review/generated-agents.egy.tsv": "sha256:9bda5c48505484c0ee53d9d4e449008048a0f1deb0e4cb134a2cf0ff5c39358b",
+      "review/generated-forms.egy.tsv": null,
+      "review/generated.egy.tsv": null,
+      "review/grow.egy.jsonl": null,
+      "review/judge.egy.jsonl": null,
+      "review/phrases.egy.json": "sha256:754742b295991265f8c14da3a1c617def13537efc15961e352ebeeb239fee7a3",
+      "review/register.egy.tsv": null,
+      "review/tiebreak.egy.jsonl": null
+    },
+    "fingerprint": "sha256:9521d700bcb012adc1406cbfe7a2155056165059b0367a55da7290ab6138e7ad",
+    "rubric": "sha256:ee7d99fc5980ebcd87912477160ed72e6f1d9895a256c1fa88e8d88093c508a4"
+  },
+  "language": "egy",
+  "licence": {
+    "commercial_use": true,
+    "key": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "share_alike": true,
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "max_candidates_per_entry": 4,
+  "phrases": {
+    "entries": 385,
+    "file": "phrases.json",
+    "format": 1
+  },
+  "sharding": {
+    "algorithm": "fnv1a-32",
+    "count": 64
+  },
+  "sources": [
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "egyptian-core-lexicon",
+      "sha256": null
+    },
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "gardiner-faulkner",
+      "sha256": null
+    },
+    {
+      "file": "kaikki-egyptian.jsonl",
+      "licence": "CC-BY-SA-4.0",
+      "name": "kaikki-egy",
+      "sha256": "7aacdf289059631b4299150d043846e73b04aacf887615080349afa16ea36c08"
+    },
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "llm-generated",
+      "sha256": null
+    },
+    {
+      "file": "tla-earlier-egyptian-v18.jsonl",
+      "licence": "CC-BY-SA-4.0",
+      "name": "tla",
+      "sha256": "13d4f6e17e5348c4a1dcf1c02795c8401367e187eaf903da325a1cf83a998f99"
+    },
+    {
+      "file": null,
+      "licence": "CC-BY-SA-4.0",
+      "name": "wiktionary-mdc",
+      "sha256": null
+    }
+  ],
+  "tiers": {
+    "core": {
+      "bytes_gzipped": 162087,
+      "lemmas": 1958,
+      "shards": 64
+    },
+    "extended": {
+      "bytes_gzipped": 196156,
+      "lemmas": 2415,
+      "shards": 64
+    }
+  },
+  "total_bytes_gzipped": 358243,
+  "version": "v1"
+}

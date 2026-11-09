@@ -1,0 +1,100 @@
+{
+  "built": "2026-11-09T18:43:20Z",
+  "core_criteria": {
+    "confidence_min": 1.0,
+    "en_zipf_min": 3.5,
+    "pos": [
+      "adj",
+      "adv",
+      "noun",
+      "verb"
+    ]
+  },
+  "format": 1,
+  "inputs": {
+    "files": {
+      "code/emit.py": "sha256:ffbd05d4cc36211568f56aaef21dd82fc7ec17744109a6edf5b86f4ee096f239",
+      "code/grow.py": "sha256:5dcfed0e1a15311a9f6b9ebab8aceb44694a24115a56c9bc99cd2bd41b589318",
+      "code/hazards.py": "sha256:3cf4bdd83290d41274826cea478c984e3b4d3bcec70cbdc9a093f525a57e3b2c",
+      "code/langs.py": "sha256:6566fc7b92da5e071a3cedbf51f3b8471f09e76384204a3d1d6ed5bda853ef3f",
+      "code/registerlane.py": "sha256:62fe853effce15b36e271aa6cc9ec80df619837f1f6cb3b5fea1c0aeefcaf20c",
+      "code/review.py": "sha256:1229203c0a24ae3bf4ac73ca429141bc308cd8bfd15d73cc90d16460f1f3b393",
+      "code/textnorm.py": "sha256:6640a86990778c7ea21b6c52661d40218b468eb25f653afc4e2a4ee59b41f799",
+      "code/vote.py": "sha256:a72b7a3a5d852091f8a1e7ff25bdbd388a67126b028354f7638b015862826239",
+      "expansion/verb-guards-yue-v1.json": "sha256:6325b2e98e5c7ef783cd90089dcdc805055e9b4c10a4cbb2dd772fd200856f62",
+      "expansion/word-promotions-yue-v1.json": null,
+      "interim/yue.wordshk.tsv": "sha256:557ba12af85e37404750e2fffc8a481b82dc4866bc824bd30af957c797db00ba",
+      "review/agents.yue.jsonl": "sha256:0d5bdc6816ac524068fc9a9895e2206bce4443a24b0208b0a0b7443cb478507f",
+      "review/decisions.llm.yue.tsv": "sha256:da77068d65492de1bf81682ca12119f6d8b15ffe44dc3816b27ca30da443e996",
+      "review/decisions.llmreview.yue.tsv": "sha256:6476b705d7284ac5833087c6eab3eedbfa78b8ac37acddd2300a333c7ad1c384",
+      "review/decisions.llmselected.yue.tsv": "sha256:1653ca9c8ac07dcf7111169eeb5a7fdac35f93f320d00aeff975df8a63bcb5b3",
+      "review/decisions.yue.tsv": null,
+      "review/generated-agents-forms.yue.tsv": null,
+      "review/generated-agents.yue.tsv": "sha256:4df60dbd3b8cd1824a4550080ff765a26de94b4b1a0d32cb864589cd91bcf06f",
+      "review/generated-forms.yue.tsv": null,
+      "review/generated.yue.tsv": null,
+      "review/grow.yue.jsonl": null,
+      "review/judge.yue.jsonl": "sha256:8acf37d59b51230d9223c475571ffba1ea0c3b9a7acbe2a22d2ae01c152e6d45",
+      "review/phrases.yue.json": "sha256:697d6cd563da2c8eb31f09a14c291f33d8e52221c6e982b3d85c03fa168b1b0a",
+      "review/register.yue.tsv": null,
+      "review/tiebreak.yue.jsonl": null
+    },
+    "fingerprint": "sha256:60095043df6edb1230599cc98bbe264fed76e1483a9ed137c0fc5ed8a387660d",
+    "rubric": "sha256:fcc9e0554efee9040e8ad6ca5e55eedb530a368246c6d3741ced6437d02d238a"
+  },
+  "language": "yue",
+  "licence": {
+    "commercial_use": false,
+    "key": "NC-ODL",
+    "name": "Non-Commercial Open Data License",
+    "share_alike": false,
+    "url": "https://words.hk/base/hoifong/"
+  },
+  "max_candidates_per_entry": 4,
+  "phrases": {
+    "entries": 910,
+    "file": "phrases.json",
+    "format": 1
+  },
+  "sharding": {
+    "algorithm": "fnv1a-32",
+    "count": 64
+  },
+  "sources": [
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "llm-generated",
+      "sha256": null
+    },
+    {
+      "file": "all-1785960301.csv.gz",
+      "licence": "NC-ODL",
+      "name": "wordshk",
+      "sha256": "299ce903c954b38688855e82e55b8c8749b5c009fbd232c43ea77e16b0dc90a1"
+    }
+  ],
+  "tiers": {
+    "core": {
+      "bytes_gzipped": 334858,
+      "lemmas": 4901,
+      "shards": 64
+    },
+    "extended": {
+      "bytes_gzipped": 175266,
+      "lemmas": 3223,
+      "shards": 64
+    }
+  },
+  "total_bytes_gzipped": 510124,
+  "verb_guards": {
+    "entries": 92,
+    "file": "verb-guards.json",
+    "fingerprint": "3dee5b825f40565575502c2bc90753afcf12991c7df974ae695a1952f8f21852",
+    "format": 1,
+    "inputFingerprint": "8e904d9b42e993c0e29cb711b45aacd3d775be9749019f1aa630739fa26b54e0",
+    "sha256": "902c984d7afa0a5463c099d3048792ba275ecab0dba278580c56a528c57f184f",
+    "version": "a11-v1"
+  },
+  "version": "v1-personal"
+}
