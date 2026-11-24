@@ -1,0 +1,21 @@
+ATTRIBUTION
+===========
+
+This dictionary pack is a derived work built from the sources below.
+Effective licence: Creative Commons Attribution-ShareAlike 4.0 International
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+This pack must be redistributed under the same licence, with this
+attribution file intact.
+
+Sources
+-------
+* dbnary [CC-BY-SA-4.0]
+  English-French translations from DBnary <http://kaiko.getalp.org/about-dbnary/>, CC BY-SA 3.0, extracted from Wiktionary by Gilles Serasset et al.
+* kaikki [CC-BY-SA-4.0]
+  English-French translations extracted from Wiktionary via Wiktextract / kaikki.org. Wiktionary content is CC BY-SA. Cite: Tatu Ylonen, "Wiktextract: Wiktionary as Machine-Readable Structured Data", LREC 2022, pp. 1317-1325.
+* kaikki-fr [CC-BY-SA-4.0]
+  French inflection tables extracted from Wiktionary via Wiktextract / kaikki.org. Wiktionary content is CC BY-SA.
+* llm-generated [PD]
+  Model-generated entries for words no licensed dictionary covers, each verified by two model judges (dictpipe grow). No dictionary source; labelled 'model-generated' in the reader.
+  Note: Model output carries no upstream licence. Never shown words.hk text.

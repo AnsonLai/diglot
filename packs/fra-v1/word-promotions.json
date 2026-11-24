@@ -1,0 +1,1651 @@
+{
+  "entries": [
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "affectionate",
+      "pos": "adj",
+      "potentialOccurrences": 5,
+      "target": "affectueux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "anchorage",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "ancrage"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "annoyance",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "ennui"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "archway",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "arcade"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "armful",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "brassée"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "astonished",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "abasourdi"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "badger",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "blaireau"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "barley",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "orge"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "beak",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "bec"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "beech",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "hêtre"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "beggar",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "gueux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "biscuit",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "biscuit"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "bosom",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "sein"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "bough",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "branche"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "breezy",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "aéré"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "bunk",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "couchette"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "canary",
+      "pos": "noun",
+      "potentialOccurrences": 7,
+      "target": "canari"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "candlestick",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "chandelier"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "cask",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "fût"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "cauldron",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "chaudron"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "chaff",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "balle"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "chatter",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "blabla"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "clover",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "trèfle"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "cockle",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "coque"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "comradeship",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "camaraderie"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "conceited",
+      "pos": "adj",
+      "potentialOccurrences": 11,
+      "target": "suffisant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "contemptuous",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "méprisant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "contentment",
+      "pos": "noun",
+      "potentialOccurrences": 9,
+      "target": "contentement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "copse",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "fourré"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "countenance",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "visage"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "courtier",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "courtisan"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "crestfallen",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "déçu"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "crumb",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "miette"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "cuckoo",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "coucou"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "cucumber",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "concombre"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "cudgel",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "gourdin"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "cupboard",
+      "pos": "noun",
+      "potentialOccurrences": 7,
+      "target": "placard"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "datum",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "donnée"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "dejected",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "abattu"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "dismay",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "désarroi"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "dismayed",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "consterné"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "dreamer",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "rêveur"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "dresser",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "buffet"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "dripping",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "ruissellement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "dusk",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "crépuscule"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "duster",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "brosse"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "ecstasy",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "extase"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "eel",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "anguille"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "errand",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "course"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "etiquette",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "étiquette"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "excursion",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "randonnée"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "executioner",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "bourreau"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "fad",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "mode"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "famished",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "affamé"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "fern",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "fougère"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "ferret",
+      "pos": "noun",
+      "potentialOccurrences": 8,
+      "target": "furet"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "flamingo",
+      "pos": "noun",
+      "potentialOccurrences": 7,
+      "target": "flamant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "flapper",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "garçonne"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "flask",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "flacon"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "folly",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "folie"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "footman",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "laquais"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "foreshore",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "estran"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "forgetful",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "oublieux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "fright",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "effroi"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "frosty",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "froid"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "fullness",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "plénitude"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "furrow",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "rigole"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "gaiter",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "guêtre"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "gallop",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "galop"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "gardener",
+      "pos": "noun",
+      "potentialOccurrences": 8,
+      "target": "jardinier"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "giddy",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "étourdi"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "gondola",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "gondole"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "growl",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "grognement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "halberd",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "hallebarde"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "handcuff",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "menotte"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "handkerchief",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "mouchoir"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hapless",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "malheureux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "haste",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "hâte"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hasty",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "hâtif"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hatter",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "chapelier"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hawser",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "aussière"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "headland",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "promontoire"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hearth",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "foyer"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hearty",
+      "pos": "adj",
+      "potentialOccurrences": 4,
+      "target": "cordial"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hedgehog",
+      "pos": "noun",
+      "potentialOccurrences": 19,
+      "target": "hérisson"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hedgerow",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "haie"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hoarse",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "enroué"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hoof",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "sabot"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hookah",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "chicha"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "hypertext",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "hypertexte"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "imperious",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "impérieux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "indignant",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "indigné"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "jailer",
+      "pos": "noun",
+      "potentialOccurrences": 8,
+      "target": "geôlier"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "joyful",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "joyeux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "joyous",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "joyeux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "jug",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "cruche"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "juror",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "juré"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "laborious",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "laborieux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "languorous",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "langoureux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "limp",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "mou"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "livery",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "livrée"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "lodging",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "logement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "melancholy",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "mélancolie"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "mirth",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "gaieté"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "mooring",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "bitte"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "mournful",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "chagrin"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "musing",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "pensée"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "muttering",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "grommellement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "muzzle",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "museau"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "newness",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "nouveauté"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "oar",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "rame"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "odorous",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "odorant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "originator",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "demandeur"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "overcoat",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "manteau"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "paddle",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "rame"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "paddock",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "enclos"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "parched",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "sec"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "parchment",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "parchemin"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "parlor",
+      "pos": "noun",
+      "potentialOccurrences": 13,
+      "target": "salon"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "paroxysm",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "paroxysme"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "paw",
+      "pos": "noun",
+      "potentialOccurrences": 44,
+      "target": "patte"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "pebble",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "caillou"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "porpoise",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "marsouin"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "porridge",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "bouillie"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "powerless",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "impuissant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "quay",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "quai"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "rapture",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "ravissement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "rattle",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "bruit"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "recollection",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "souvenir"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "refreshment",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "rafraîchissement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "revolver",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "revolver"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "riddle",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "énigme"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "ringlet",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "boucle"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "rower",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "rameur"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "rowing",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "aviron"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "rustle",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "bruissement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sapling",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "arbrisseau"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "satchel",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "cartable"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "saucepan",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "casserole"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "scraper",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "grattoir"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "seafarer",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "marin"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "semicircle",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "demi-cercle"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sentinel",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "sentinelle"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sentry",
+      "pos": "noun",
+      "potentialOccurrences": 7,
+      "target": "sentinelle"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "shabby",
+      "pos": "adj",
+      "potentialOccurrences": 8,
+      "target": "usé"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "shawl",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "châle"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "shiver",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "frisson"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "shriek",
+      "pos": "noun",
+      "potentialOccurrences": 9,
+      "target": "hurlement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "silky",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "soyeux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sleek",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "brillant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sleet",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "grésil"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "slumber",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "somnolence"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "smelt",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "éperlan"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sneeze",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "éternuement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "snort",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "reniflement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "snout",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "museau"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sobbing",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "sanglotement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "solicitation",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "sollicitation"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "somersault",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "salto"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "soothing",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "rassurant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "speck",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "point"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "spiky",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "piquant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "squeak",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "crissement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "squeal",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "crissement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "stair",
+      "pos": "noun",
+      "potentialOccurrences": 7,
+      "target": "marche"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "stalk",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "tige"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "stately",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "imposant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "steed",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "coursier"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "steely",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "acéré"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "stew",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "ragoût"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "stillness",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "calme"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "stormy",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "orageux"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "stump",
+      "pos": "noun",
+      "potentialOccurrences": 8,
+      "target": "souche"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "submissive",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "soumis"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "sward",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "gazon"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "swirl",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "tourbillon"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "tart",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "putain"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "thimble",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "dé"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "thistle",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "chardon"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "thoughtless",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "irréfléchi"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "tingle",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "picotement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "toad",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "crapaud"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "toil",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "labeur"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "tramp",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "va-nu-pieds"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "treacle",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "mélasse"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "triumphal",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "triomphal"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "troublesome",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "gênant"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "truncheon",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "matraque"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "undergrowth",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "sous-bois"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "unfriendly",
+      "pos": "adj",
+      "potentialOccurrences": 2,
+      "target": "inamical"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "ungrateful",
+      "pos": "adj",
+      "potentialOccurrences": 3,
+      "target": "ingrat"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "wager",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "mise"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "waistcoat",
+      "pos": "noun",
+      "potentialOccurrences": 7,
+      "target": "gilet"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "wayfarer",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "voyageur"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "weasel",
+      "pos": "noun",
+      "potentialOccurrences": 19,
+      "target": "fouine"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "whine",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "geignement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "whisker",
+      "pos": "noun",
+      "potentialOccurrences": 6,
+      "target": "favoris"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "whispering",
+      "pos": "noun",
+      "potentialOccurrences": 5,
+      "target": "chuchotement"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "whitewash",
+      "pos": "noun",
+      "potentialOccurrences": 3,
+      "target": "badigeon"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "whiting",
+      "pos": "noun",
+      "potentialOccurrences": 8,
+      "target": "merlan"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "wicker",
+      "pos": "noun",
+      "potentialOccurrences": 4,
+      "target": "osier"
+    },
+    {
+      "confidence": 1.0,
+      "evidence": "scorer",
+      "lemma": "youngster",
+      "pos": "noun",
+      "potentialOccurrences": 2,
+      "target": "enfant"
+    }
+  ],
+  "inputs": [
+    {
+      "name": "runtime-expansion-fra-v1.json",
+      "role": "audit",
+      "sha256": "fa8fddd30d0fd6fe7d1f69b56768a59f43f771f182b1ab8c8cd290a2eb221f47"
+    },
+    {
+      "name": "word-dispositions-fra-v1.json",
+      "role": "dispositions",
+      "sha256": "a95484d9e88713e376ccc66043103e144c318a60634f7414481c2930e505f8c4"
+    }
+  ],
+  "language": "fra",
+  "languageLabel": "French",
+  "measuredImpact": {
+    "acceptedSiteDelta": 631,
+    "books": 2,
+    "deepDensityDisplaced": 70,
+    "deepDensityNetDelta": 450,
+    "deepDensityNewlyReached": 520,
+    "tokens": 93766
+  },
+  "promotionFingerprint": "7fbaa328b128e505d2f987b336f920497171bd540f5cd0e944c269eb17b8f37b",
+  "promotionVersion": "a5-v1",
+  "schemaVersion": 1,
+  "sourceAuditFingerprint": "b931d05b884951802bcd8f30cfb3e7f4740d764c55a473456c9f6a01dfc01c5f",
+  "sourceDispositionFingerprint": "d45d8355c1592230e9cc47d6ff3975909258d778b234f4c0bc0c68a0aa42fea8",
+  "totals": {
+    "entries": 202,
+    "potentialOccurrences": 716
+  }
+}

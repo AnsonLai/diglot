@@ -1,0 +1,120 @@
+{
+  "built": "2026-11-23T16:40:40Z",
+  "core_criteria": {
+    "confidence_min": 1.0,
+    "en_zipf_min": 3.5,
+    "pos": [
+      "adj",
+      "adv",
+      "noun",
+      "verb"
+    ]
+  },
+  "format": 1,
+  "inputs": {
+    "files": {
+      "code/emit.py": "sha256:f08a5ed8535e0b0c63134462cb71dddbc338641c489c7ee8d1f08d81e3375bad",
+      "code/grow.py": "sha256:5dcfed0e1a15311a9f6b9ebab8aceb44694a24115a56c9bc99cd2bd41b589318",
+      "code/hazards.py": "sha256:58c606a704ff4d01f6556e30e0e0d24de22a37bedfc38b6919fe2cbddf0b152a",
+      "code/langs.py": "sha256:6566fc7b92da5e071a3cedbf51f3b8471f09e76384204a3d1d6ed5bda853ef3f",
+      "code/rechecklane.py": "sha256:3e0305efc968f99f0c7ecd76f15d8358bf453fd51b45126b891be067c93089f4",
+      "code/registerlane.py": "sha256:d60049ec43a3c3372fb8a916fedfcd8c4760fb7a9687386c53036792528de178",
+      "code/review.py": "sha256:1229203c0a24ae3bf4ac73ca429141bc308cd8bfd15d73cc90d16460f1f3b393",
+      "code/safetylane.py": "sha256:be6d9c40e617af93fb993de7cd993cc2a359c260c5f4dffae4f70a4cec46680c",
+      "code/textnorm.py": "sha256:6640a86990778c7ea21b6c52661d40218b468eb25f653afc4e2a4ee59b41f799",
+      "code/vote.py": "sha256:a72b7a3a5d852091f8a1e7ff25bdbd388a67126b028354f7638b015862826239",
+      "expansion/verb-guards-egy-v1.json": null,
+      "expansion/word-promotions-egy-v1.json": null,
+      "interim/egy.egyptian.tsv": "sha256:da44fcfe0519520a3a467b48cc5c22014cdc32480e5bd7385b3cd0384a3163f9",
+      "interim/egy.forms.tsv": "sha256:68e72d07190ce813157df7070711ec308cc563651ea303d630d37689f6e55441",
+      "review/agents.egy.jsonl": "sha256:ffc78c7eadb835127865fbe356f308989d1ca7835cc974d3649de676245fbc9f",
+      "review/decisions.egy.tsv": null,
+      "review/decisions.llm.egy.tsv": null,
+      "review/decisions.llmreview.egy.tsv": "sha256:d23dd14034bc7298ef73bfb55a3506bff80c37a78ed9d59aef3c653abf5e449b",
+      "review/decisions.llmselected.egy.tsv": "sha256:1653ca9c8ac07dcf7111169eeb5a7fdac35f93f320d00aeff975df8a63bcb5b3",
+      "review/generated-agents-forms.egy.tsv": null,
+      "review/generated-agents.egy.tsv": "sha256:9bda5c48505484c0ee53d9d4e449008048a0f1deb0e4cb134a2cf0ff5c39358b",
+      "review/generated-forms.egy.tsv": null,
+      "review/generated.egy.tsv": null,
+      "review/grow.egy.jsonl": null,
+      "review/judge.egy.jsonl": null,
+      "review/phrases.egy.json": "sha256:754742b295991265f8c14da3a1c617def13537efc15961e352ebeeb239fee7a3",
+      "review/recheck.egy.tsv": "sha256:a5c7f1a017d529c6f1d1814ab3cb340bfc2b1e6f14f650ab37cb1dc26bcaa068",
+      "review/register.egy.tsv": null,
+      "review/safety.egy.tsv": "sha256:63e570769279323bed997c0b8998b23d72abd2b99ef0772e23637820884a2444",
+      "review/tiebreak.egy.jsonl": null
+    },
+    "fingerprint": "sha256:da0da74e8c6618428197e3cb19d87381521171ea4f431c57146001c68f3b491a",
+    "rubric": "sha256:ee7d99fc5980ebcd87912477160ed72e6f1d9895a256c1fa88e8d88093c508a4"
+  },
+  "language": "egy",
+  "licence": {
+    "commercial_use": true,
+    "key": "CC-BY-SA-4.0",
+    "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "share_alike": true,
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "max_candidates_per_entry": 4,
+  "phrases": {
+    "entries": 262,
+    "file": "phrases.json",
+    "format": 1
+  },
+  "sharding": {
+    "algorithm": "fnv1a-32",
+    "count": 64
+  },
+  "sources": [
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "egyptian-core-lexicon",
+      "sha256": null
+    },
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "gardiner-faulkner",
+      "sha256": null
+    },
+    {
+      "file": "kaikki-egyptian.jsonl",
+      "licence": "CC-BY-SA-4.0",
+      "name": "kaikki-egy",
+      "sha256": "7aacdf289059631b4299150d043846e73b04aacf887615080349afa16ea36c08"
+    },
+    {
+      "file": null,
+      "licence": "PD",
+      "name": "llm-generated",
+      "sha256": null
+    },
+    {
+      "file": "tla-earlier-egyptian-v18.jsonl",
+      "licence": "CC-BY-SA-4.0",
+      "name": "tla",
+      "sha256": "13d4f6e17e5348c4a1dcf1c02795c8401367e187eaf903da325a1cf83a998f99"
+    },
+    {
+      "file": null,
+      "licence": "CC-BY-SA-4.0",
+      "name": "wiktionary-mdc",
+      "sha256": null
+    }
+  ],
+  "tiers": {
+    "core": {
+      "bytes_gzipped": 144768,
+      "lemmas": 1595,
+      "shards": 64
+    },
+    "extended": {
+      "bytes_gzipped": 196463,
+      "lemmas": 2415,
+      "shards": 64
+    }
+  },
+  "total_bytes_gzipped": 341231,
+  "version": "v1"
+}
